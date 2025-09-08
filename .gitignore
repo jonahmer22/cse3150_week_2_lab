@@ -1,3 +1,12 @@
+# MacOS things
+*.DS_Store
+
+# Object files
+*.o
+
+# Final Binary
+parser_app
+
 # Prerequisites
 *.d
 
